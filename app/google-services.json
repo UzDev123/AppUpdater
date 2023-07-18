@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "586223630152",
+    "project_id": "appupdater-2ee9a",
+    "storage_bucket": "appupdater-2ee9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586223630152:android:62402a9685bb3fd228a57d",
+        "android_client_info": {
+          "package_name": "com.exam.appupdater"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586223630152-ink1o64hc7aiie3lm1pdjsl8809d6ts8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATxjKDjfw6lny0cEiDzj0sw4WYJU5GljY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586223630152-ink1o64hc7aiie3lm1pdjsl8809d6ts8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
